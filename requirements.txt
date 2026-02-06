@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn>=1.2.2
+catboost
+xgboost
+dill
+flask
+requests
+python-dotenv
+pathlib
+xmltodict
+openai
+streamlit
+-e .
